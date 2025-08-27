@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/home/virthost/Downloads",
+        "/home/virthost/Desktop",
+        "/Users/virthost/Desktop",
+        "/Users/virthost/Downloads"
+      ]
+    }
+  }
+}

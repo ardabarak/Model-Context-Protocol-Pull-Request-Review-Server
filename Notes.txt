@@ -1,0 +1,4 @@
+Details about the project environment:
+OS: Fedora Workstation 42
+LLM: Claude Desktop (as there's no Linux version yet available, used the "https://github.com/bsneed/claude-desktop-fedora" version. (May need tweaks with the path for the electron, access to filesystem and the MCP permissions after installation.))
+Py version: 3.13
